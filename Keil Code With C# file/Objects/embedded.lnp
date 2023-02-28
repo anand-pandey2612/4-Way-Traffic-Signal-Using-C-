@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\code.obj" 
+TO ".\Objects\embedded" 
+PRINT(".\Listings\embedded.m51")
